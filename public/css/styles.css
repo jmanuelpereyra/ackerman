@@ -1,0 +1,17 @@
+body {
+  background-color: salmon;
+  font-family: "Zen Kurenaido", sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: serif;
+}
+
+.titulo {
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+}
