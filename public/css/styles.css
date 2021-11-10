@@ -1,17 +1,28 @@
+* {
+  box-sizing: border-box;
+}
 body {
-  background-color: salmon;
-  font-family: "Zen Kurenaido", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-
-h1 {
-  font-size: 40px;
-  font-family: serif;
+.main-header {
+  background-color: #eac926;
+  padding: 20px;
 }
-
-.titulo {
-  text-decoration: underline;
+.logo {
+  width: 200px;
 }
-
-p {
+.copy-header {
+  font-weight: 400;
   text-align: center;
+}
+.hamburguer-button {
+  background-color: #1259c3;
+  color: white;
+  display: block;
+  max-width: 50px;
+  padding: 15px 0;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 18px;
+  margin: auto;
 }
